@@ -22,6 +22,10 @@ A simple task management application where users can:
 - CSS
 - JavaScript
 
+## 📸 Project Preview
+
+![Todo App Screenshot](todo-app/screenshot.png)
+
 ## 🎯 Goal of this Repository
 The goal of this repository is to improve my development skills by building small practical projects.
 
